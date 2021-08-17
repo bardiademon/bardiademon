@@ -20,7 +20,7 @@
 [<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://www.bardiademon.com/public/icons/javascript.png" />][MyWebsite]
 [<img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][MyWebsite]
 [<img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][MyWebsite]
-[<img align="left" alt="GraphQL" title="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][MyWebsite]
+[<img align="left" alt="GraphQL" title="GraphQL" width="26px" src="https://www.bardiademon.com/public/icons/graphql.png" />][MyWebsite]
 [<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://www.bardiademon.com/public/icons/mysql.png" />][MyWebsite]
 [<img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][MyWebsite]
 
