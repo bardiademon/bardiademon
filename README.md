@@ -41,8 +41,6 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bardiademon&layout=compact)
 
 ---
-
-![DM me Discord](https://discord.c99.nl/widget/theme-2/550013353171484682.png)
     
 [github]: https://github.com/bardiademon
 [Instagram]: https://instagram.com/bardiademon.ir
