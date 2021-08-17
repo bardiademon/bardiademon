@@ -44,8 +44,6 @@
 
 <h3 align="center"> 
 <br>
-<br>
-Visitors<br>
 <img src="https://bardiademon.com/public/bardiademon.png" />
 </h3>
 <br>
