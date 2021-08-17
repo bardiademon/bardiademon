@@ -8,9 +8,9 @@
 
 ### Contact me:
 
-[<img align="left" alt="bardiademon | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="bardiademon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bardiademon | ProtonMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/protonmail.svg" />][MyEmail]
+[<img align="left" alt="bardiademon | Telegram" width="22px" src="https://www.bardiademon.com/images/ic-telegram.png" />][telegram]
+[<img align="left" alt="bardiademon | Instagram" width="22px" src="https://www.bardiademon.com/images/ic-instagram.png" />][instagram]
+[<img align="left" alt="bardiademon | Gmail" width="22px" src="https://www.bardiademon.com/images/ic-gmail.png" />][MyEmail]
 
 <br />
 
