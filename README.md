@@ -36,9 +36,10 @@
 [<img style="margin-left: 8px;margin-top: -20px;" align="left" alt="Sqlite" title="Sqlite" width="60px" src="https://www.bardiademon.com/public/icons/sqlite.svg" />][MyWebsite]
 <br/>
 <br/>
+<br/>
 ### Frameworks [front-end]:
 [<img style="margin-left: 8px;" align="left" alt="React" title="React" width="50px" src="https://www.bardiademon.com/public/icons/react.svg" />][MyWebsite]
-[<img style="margin-left: 8px;" align="left" alt="JQuery" title="React" width="80px" src="https://www.bardiademon.com/public/icons/jquery.svg" />][MyWebsite]
+[<img style="margin-left: 8px;" align="left" alt="JQuery" title="JQuery" width="80px" src="https://www.bardiademon.com/public/icons/jquery.svg" />][MyWebsite]
 <br/>
 <br/>
 <br/>
