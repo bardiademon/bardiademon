@@ -19,8 +19,8 @@
 
 ### Language:
 [<img style="margin-left: 8px;" align="left" alt="Java" title="Java" width="50px" src="https://www.bardiademon.com/public/icons/java.svg" />][MyWebsite]
-[<img style="margin-left: 8px;" align="left" alt="Java" title="Java" width="50px" src="https://www.bardiademon.com/public/icons/javascript.svg" />][MyWebsite]
-[<img style="margin-left: 8px;" align="left" alt="Java" title="Java" width="50px" src="https://www.bardiademon.com/public/icons/php.svg" />][MyWebsite]
+[<img style="margin-left: 8px;" align="left" alt="javascript" title="javascript" width="50px" src="https://www.bardiademon.com/public/icons/javascript.svg" />][MyWebsite]
+[<img style="margin-left: 8px;" align="left" alt="php" title="php" width="50px" src="https://www.bardiademon.com/public/icons/php.svg" />][MyWebsite]
 <br/>
 <br/>
 <br/>
