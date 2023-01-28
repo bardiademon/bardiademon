@@ -12,16 +12,13 @@
 
 ### Contact me
 
-[<img style="margin-left: 10px;margin-right: 8px" align="left" alt="bardiademon | Telegram" width="22px" src="icons/telegram.svg" />][telegram] [Telegram]
+[<img style="margin-left: 10px;margin-right: 5px" align="left" alt="bardiademon | Telegram" width="22px" src="icons/telegram.svg" />][telegram] [Telegram]
 <br/>
+[<img style="margin-left: 10px;margin-right: 5px;" align="left" alt="bardiademon | Gmail" width="22px" src="icons/gmail.svg" />][MyEmail] [Email][MyEmail]
 <br/>
-[<img style="margin-left: 10px;margin-right: 8px;" align="left" alt="bardiademon | Gmail" width="22px" src="icons/gmail.svg" />][MyEmail] [Email][MyEmail]
+[<img style="margin-left: 10px;margin-right: 5px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/whatsapp.svg" />][MyWhatsapp] [Whatsapp][MyWhatsapp]
 <br/>
-<br/>
-[<img style="margin-left: 10px;margin-right: 8px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/whatsapp.svg" />][MyWhatsapp] [Whatsapp][MyWhatsapp]
-<br/>
-<br/>
-[<img style="margin-left: 10px;margin-right: 8px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/instagram.svg" />][Instagram] [Instagram][MyWhatsapp]
+[<img style="margin-left: 10px;margin-right: 5px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/instagram.svg" />][Instagram] [Instagram][MyWhatsapp]
 
 # My Skills
 
