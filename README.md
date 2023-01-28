@@ -14,9 +14,12 @@
 
 [<img style="margin-left: 10px;margin-right: 8px" align="left" alt="bardiademon | Telegram" width="22px" src="icons/telegram.svg" />] [telegram] [Telegram]
 <br/>
+<br/>
 [<img style="margin-left: 10px;margin-right: 8px;" align="left" alt="bardiademon | Gmail" width="22px" src="icons/gmail.svg" />] [MyEmail] [Email][MyEmail]
 <br/>
+<br/>
 [<img style="margin-left: 10px;margin-right: 8px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/whatsapp.svg" />] [MyWhatsapp] [Whatsapp][MyWhatsapp]
+<br/>
 <br/>
 [<img style="margin-left: 10px;margin-right: 8px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/instagram.svg" />] [Instagram] [Instagram][MyWhatsapp]
 
@@ -26,6 +29,7 @@
 
 [<img style="margin-left: 8px;" align="left" alt="Java" title="Java" width="50px" src="icons/java.svg" />][MyWebsite]
 
+<br/>
 <br/>
 <br/>
 
@@ -46,11 +50,13 @@
 
 <br/>
 <br/>
+<br/>
 
 ### Toolkit
 
 [<img style="margin-left: 8px;" align="left" alt="Spring-Boot" title="Vert.X" width="150px" src="icons/vert.x.png" />][MyWebsite]
 
+<br/>
 <br/>
 <br/>
 
@@ -62,6 +68,7 @@
 
 <br/>
 <br/>
+<br/>
 
 ### SQL
 
@@ -69,6 +76,7 @@
 [<img style="margin-left: 8px;margin-top: -20px;" align="left" alt="MySQL" title="MySQL" width="60px" src="icons/mysql.svg" />][MyWebsite]
 [<img style="margin-left: 8px;margin-top: -20px;" align="left" alt="SQLite" title="Sqlite" width="60px" src="/icons/sqlite.svg" />][MyWebsite]
 
+<br/>
 <br/>
 <br/>
 
@@ -79,12 +87,14 @@
 
 <br/>
 <br/>
+<br/>
 
 ### Api
 
 [<img style="margin-left: 8px;" align="left" alt="GraphQL" title="GraphQL" width="50px" src="icons/graphql.svg" />][MyWebsite]
 [<img style="margin-left: 8px;" align="left" alt="JSON" title="JSON" width="50px" src="icons/json.svg" />][MyWebsite]
 
+<br/>
 <br/>
 <br/>
 
