@@ -72,7 +72,7 @@
 
 ### SQL
 
-[<img style="margin-left: 8px;margin-top: -8px;" align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="icons/postgresql.png" />][MyWebsite]
+[<img style="margin-left: 8px;margin-top: -8px;" align="left" alt="PostgreSQL" title="PostgreSQL" width="50px" src="icons/postgresql.png" />][MyWebsite]
 [<img style="margin-left: 8px;margin-top: -20px;" align="left" alt="MySQL" title="MySQL" width="60px" src="icons/mysql.svg" />][MyWebsite]
 [<img style="margin-left: 8px;margin-top: -20px;" align="left" alt="SQLite" title="Sqlite" width="60px" src="/icons/sqlite.svg" />][MyWebsite]
 
