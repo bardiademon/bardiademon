@@ -12,16 +12,16 @@
 
 ### Contact me
 
-[<img style="margin-left: 10px;margin-right: 5px" align="left" alt="bardiademon | Telegram" width="22px" src="icons/telegram.svg" />][telegram] [Telegram]
+[<img style="margin-left: 10px;margin-right: 2px" align="left" alt="bardiademon | Telegram" width="22px" src="icons/telegram.svg" />][telegram] [Telegram]
 <br/>
 <br/>
-[<img style="margin-left: 10px;margin-right: 5px;" align="left" alt="bardiademon | Gmail" width="22px" src="icons/gmail.svg" />][MyEmail] [Email][MyEmail]
+[<img style="margin-left: 10px;margin-right: 2px;" align="left" alt="bardiademon | Gmail" width="22px" src="icons/gmail.svg" />][MyEmail] [Email][MyEmail]
 <br/>
 <br/>
-[<img style="margin-left: 10px;margin-right: 5px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/whatsapp.svg" />][MyWhatsapp] [Whatsapp][MyWhatsapp]
+[<img style="margin-left: 10px;margin-right: 2px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/whatsapp.svg" />][MyWhatsapp] [Whatsapp][MyWhatsapp]
 <br/>
 <br/>
-[<img style="margin-left: 10px;margin-right: 5px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/instagram.svg" />][Instagram] [Instagram][MyWhatsapp]
+[<img style="margin-left: 10px;margin-right: 2px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/instagram.svg" />][Instagram] [Instagram][MyWhatsapp]
 
 # My Skills
 
@@ -33,17 +33,17 @@
 <br/>
 <br/>
 
-- [<img style="margin-left: -5px;;margin-right: 5px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
+- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
   Java Core
-- [<img style="margin-left: -5px;;margin-right: 5px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
+- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
   Java SE
-- [<img style="margin-left: -5px;;margin-right: 5px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
+- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
   Java EE
-- [<img style="margin-left: -5px;;margin-right: 5px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
+- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
   Jakarta EE
-- [<img style="margin-left: -5px;;margin-right: 5px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
+- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
   Java FX
-- [<img style="margin-left: -5px;;margin-right: 5px" align="left" alt="Java" title="Java" width="22px" src="icons/android.svg" />][MyWebsite]
+- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/android.svg" />][MyWebsite]
   Android
 
 [<img style="margin-left: 8px;" align="left" alt="javascript" title="Javascript" width="50px" src="icons/javascript.svg" />][MyWebsite]
@@ -72,7 +72,7 @@
 
 ### SQL
 
-[<img style="margin-left: 8px;margin-top: -8px;" align="left" alt="PostgreSQL" title="MySQL" width="40px" src="icons/postgresql.png" />][MyWebsite]
+[<img style="margin-left: 8px;margin-top: -8px;" align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="icons/postgresql.png" />][MyWebsite]
 [<img style="margin-left: 8px;margin-top: -20px;" align="left" alt="MySQL" title="MySQL" width="60px" src="icons/mysql.svg" />][MyWebsite]
 [<img style="margin-left: 8px;margin-top: -20px;" align="left" alt="SQLite" title="Sqlite" width="60px" src="/icons/sqlite.svg" />][MyWebsite]
 
