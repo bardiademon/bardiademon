@@ -21,7 +21,7 @@
 [<img style="margin-left: 10px;margin-right: 2px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/whatsapp.svg" />][MyWhatsapp] [Whatsapp][MyWhatsapp]
 <br/>
 <br/>
-[<img style="margin-left: 10px;margin-right: 2px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/instagram.svg" />][Instagram] [Instagram][MyWhatsapp]
+[<img style="margin-left: 10px;margin-right: 2px;" align="left" alt="bardiademon | Instagram" width="22px" src="icons/instagram.svg" />][Instagram] [Instagram][Instagram]
 
 # My Skills
 
