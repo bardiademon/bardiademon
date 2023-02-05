@@ -10,13 +10,7 @@
   I am a little interested in JavaScript programming
 - ⚡ In my free time, I watch YouTube tutorials or play games or watch movies
 
-<h3 align="center"> 
-<br>
-<img src="images/bardiademon.gif"  alt="https://bardiademon.com"/>
-</h3>
-<br>
-<br>
-
+[<img style="border-radius: 10px" align="center" alt="Java" title="Java" src="images/bardiademon.gif" />][MyWebsite]
 ### Contact me
 
 [<img style="margin-left: 10px;margin-right: 2px" align="left" alt="bardiademon | Telegram" width="22px" src="icons/telegram.svg" />][telegram] [Telegram]
