@@ -10,6 +10,13 @@
   I am a little interested in JavaScript programming
 - ⚡ In my free time, I watch YouTube tutorials or play games or watch movies
 
+<h3 align="center"> 
+<br>
+<img src="images/bardiademon.gif"  alt="https://bardiademon.com"/>
+</h3>
+<br>
+<br>
+
 ### Contact me
 
 [<img style="margin-left: 10px;margin-right: 2px" align="left" alt="bardiademon | Telegram" width="22px" src="icons/telegram.svg" />][telegram] [Telegram]
@@ -129,10 +136,3 @@
 [MyEmail]: mailto:bardiademon@gmail.com
 
 [MyWhatsapp]: https://wa.me/989170221393
-
-<h3 align="center"> 
-<br>
-<img src="images/bardiademon.gif"  alt="https://bardiademon.com"/>
-</h3>
-<br>
-<br>  
