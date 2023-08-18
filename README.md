@@ -36,36 +36,36 @@
 
 ### ⚡ Java Toolkit
 
-<img src="https://img.shields.io/badge/-vert.x-0D1117?style=for-the-badge&logo=vertx" alt="Vert.x" />
+![Vert.x](https://img.shields.io/badge/-vert.x-0D1117?style=for-the-badge&logo=vertx)
 
 ### ⚡ Java Frameworks [Back-end]
 
-<img src="https://img.shields.io/badge/-Spring%20boot-0D1117?style=for-the-badge&logo=spring-boot" alt="Spring-Boot" /> 
-<img src="https://img.shields.io/badge/-Quarkus-0D1117?style=for-the-badge&logo=Quarkus" alt="Quarkus" />
-<img src="https://img.shields.io/badge/-micronaut-0D1117?style=for-the-badge&logo=Micronaut" alt="Micronaut" />
+![Spring-Boot](https://img.shields.io/badge/-Spring%20boot-0D1117?style=for-the-badge&logo=spring-boot)
+![Quarkus](https://img.shields.io/badge/-Quarkus-0D1117?style=for-the-badge&logo=Quarkus)
+![Micronaut](https://img.shields.io/badge/-micronaut-0D1117?style=for-the-badge&logo=Micronaut)
 
 ### ⚡ SQL
 
-<img src="https://img.shields.io/badge/-oracle-0D1117?style=for-the-badge&logo=oracle" alt="Oracle" /> 
-<img src="https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=Postgresql" alt="Postgresql" /> 
-<img src="https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql" alt="Mysql" /> 
-<img src="https://img.shields.io/badge/-Sqlite-0D1117?style=for-the-badge&logo=Sqlite" alt="Sqlite" /> 
+![Oracle](https://img.shields.io/badge/-oracle-0D1117?style=for-the-badge&logo=oracle)
+![Postgresql](https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=Postgresql)
+![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql)
+![Sqlite](https://img.shields.io/badge/-Sqlite-0D1117?style=for-the-badge&logo=Sqlite)
 
 ### ⚡ JavaScript Frameworks [Front-end]
 
-<img src="https://img.shields.io/badge/-vue-0D1117?style=for-the-badge&logo=vue" alt="vue" /> 
-<img src="https://img.shields.io/badge/-JQuery-0D1117?style=for-the-badge&logo=JQuery" alt="JQuery" /> 
+![vue](https://img.shields.io/badge/-vue-0D1117?style=for-the-badge&logo=vue)
+![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=for-the-badge&logo=JQuery)
 
 ### ⚡ Api
 
-<img src="https://img.shields.io/badge/-graphql-0D1117?style=for-the-badge&logo=graphql" alt="Graphql" /> 
-<img src="https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=Json" alt="Json" /> 
+![Graphql](https://img.shields.io/badge/-graphql-0D1117?style=for-the-badge&logo=graphql)
+![Json](https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=Json)
 
 ### ⚡ Version controls
 
-<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git" alt="Git" /> 
-<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub" alt="GitHub" /> 
-<img src="https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=GitLab" alt="GitLab" /> 
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=GitLab)
 
 ---
 
