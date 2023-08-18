@@ -1,38 +1,23 @@
 # Hi there 👋
 
-# I'm bardiademon
+# I'm Bardia
 
 - [<img style="margin-left: 8px;margin-right: 8px;" align="left" alt="Java" title="Java" width="20px" src="https://www.bardiademon.com/public/icons/java.svg" />][MyWebsite]
   I am a Java programmer
 - [<img style="margin-left: 8px;margin-right: 8px;" align="left" alt="Java" title="Java" width="20px" src="https://www.bardiademon.com/public/icons/java.svg" />][MyWebsite]
   I am currently learning everything related to Java</br>
-- [<img style="margin-left: 8px;margin-right: 8px;" align="left" alt="javascript" title="javascript" width="20px" src="https://www.bardiademon.com/public/icons/javascript.svg" />][MyWebsite]
-  I am a little interested in JavaScript programming
 - ⚡ In my free time, I watch YouTube tutorials or play games or watch movies
 
 [<img style="border-radius: 10px" align="center" alt="Java" title="Java" src="images/bardiademon.gif" />][MyWebsite]
-### Contact me
+<h2>📃 Contact</h2>
 
-[<img style="margin-left: 10px;margin-right: 2px" align="left" alt="bardiademon | Telegram" width="22px" src="icons/telegram.svg" />][telegram] [Telegram]
-<br/>
-<br/>
-[<img style="margin-left: 10px;margin-right: 2px;" align="left" alt="bardiademon | Gmail" width="22px" src="icons/gmail.svg" />][MyEmail] [Email][MyEmail]
-<br/>
-<br/>
-[<img style="margin-left: 10px;margin-right: 2px;" align="left" alt="bardiademon | Whatsapp" width="22px" src="icons/whatsapp.svg" />][MyWhatsapp] [Whatsapp][MyWhatsapp]
-<br/>
-<br/>
-[<img style="margin-left: 10px;margin-right: 2px;" align="left" alt="bardiademon | Instagram" width="22px" src="icons/instagram.svg" />][Instagram] [Instagram][Instagram]
+<div>   
+    <a href="mailto:bardiademon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail" alt="Bardiademon-Gmail"></a>
+    <a href="https://t.me/bardiademon" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram" alt="Bardiademon-Telegram"></a>
+    <a href="https://wa.me/989170221393" target="_blank"><img src="https://img.shields.io/badge/whatsapp-0D1117?style=for-the-badge&logo=whatsapp" alt="Bardiademon-Whatsapp"></a>
+</div>
 
-# My Skills
-
-### Programming languages that I work with
-
-[<img style="margin-left: 8px;" align="left" alt="Java" title="Java" width="50px" src="icons/java.svg" />][MyWebsite]
-
-<br/>
-<br/>
-<br/>
+### ⚡ Programming languages that I work with
 
 - [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
   Java Core
@@ -47,75 +32,48 @@
 - [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/android.svg" />][MyWebsite]
   Android
 
-[<img style="margin-left: 8px;" align="left" alt="javascript" title="Javascript" width="50px" src="icons/javascript.svg" />][MyWebsite]
+# ⚡ Skills
 
-<br/>
-<br/>
-<br/>
+### ⚡ Java Toolkit
 
-### Toolkit
+<img src="https://img.shields.io/badge/-vert.x-0D1117?style=for-the-badge&logo=vertx" alt="Vert.x" />
 
-[<img style="margin-left: 8px;" align="left" alt="Spring-Boot" title="Vert.X" width="150px" src="icons/vert.x.png" />][MyWebsite]
+### ⚡ Java Frameworks [Back-end]
 
-<br/>
-<br/>
-<br/>
+<img src="https://img.shields.io/badge/-Spring%20boot-0D1117?style=for-the-badge&logo=spring-boot" alt="Spring-Boot" /> 
+<img src="https://img.shields.io/badge/-Quarkus-0D1117?style=for-the-badge&logo=Quarkus" alt="Quarkus" />
+<img src="https://img.shields.io/badge/-micronaut-0D1117?style=for-the-badge&logo=Micronaut" alt="Micronaut" />
 
-### Frameworks [Back-end]
+### ⚡ SQL
 
-[<img style="margin-left: 8px;" align="left" alt="Spring-Boot" title="Spring-Boot" width="50px" src="icons/spring-boot.svg" />][MyWebsite]
-[<img style="margin-left: 8px;" align="left" alt="Quarkus" title="Quarkus" width="50px" src="icons/quarkus.svg" />][MyWebsite]
-[<img style="margin-left: 8px;" align="left" alt="Micronaut" title="Micronaut" width="65px" src="icons/micronaut.svg" />][MyWebsite]
+<img src="https://img.shields.io/badge/-oracle-0D1117?style=for-the-badge&logo=oracle" alt="Oracle" /> 
+<img src="https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=Postgresql" alt="Postgresql" /> 
+<img src="https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql" alt="Mysql" /> 
+<img src="https://img.shields.io/badge/-Sqlite-0D1117?style=for-the-badge&logo=Sqlite" alt="Sqlite" /> 
 
-<br/>
-<br/>
-<br/>
+### ⚡ JavaScript Frameworks [Front-end]
 
-### SQL
+<img src="https://img.shields.io/badge/-vue-0D1117?style=for-the-badge&logo=vue" alt="vue" /> 
+<img src="https://img.shields.io/badge/-JQuery-0D1117?style=for-the-badge&logo=JQuery" alt="JQuery" /> 
 
-[<img style="margin-left: 8px;margin-top: -8px;" align="left" alt="PostgreSQL" title="PostgreSQL" width="50px" src="icons/postgresql.png" />][MyWebsite]
-[<img style="margin-left: 8px;margin-top: -20px;" align="left" alt="MySQL" title="MySQL" width="60px" src="icons/mysql.svg" />][MyWebsite]
-[<img style="margin-left: 8px;margin-top: -20px;" align="left" alt="SQLite" title="Sqlite" width="60px" src="/icons/sqlite.svg" />][MyWebsite]
+### ⚡ Api
 
-<br/>
-<br/>
-<br/>
+<img src="https://img.shields.io/badge/-graphql-0D1117?style=for-the-badge&logo=graphql" alt="Graphql" /> 
+<img src="https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=Json" alt="Json" /> 
 
-### Frameworks [front-end]
+### ⚡ Version controls
 
-[<img style="margin-left: 8px;" align="left" alt="VueJS" title="VueJS" width="50px" src="icons/vuejs.svg" />][MyWebsite]
-[<img style="margin-left: 8px;" align="left" alt="JQuery" title="JQuery" width="80px" src="icons/jquery.svg" />][MyWebsite]
-
-<br/>
-<br/>
-<br/>
-
-### Api
-
-[<img style="margin-left: 8px;" align="left" alt="GraphQL" title="GraphQL" width="50px" src="icons/graphql.svg" />][MyWebsite]
-[<img style="margin-left: 8px;" align="left" alt="JSON" title="JSON" width="50px" src="icons/json.svg" />][MyWebsite]
-
-<br/>
-<br/>
-<br/>
-
-### Version controls
-
-[<img style="margin-left: 8px;" align="left" alt="Git" title="Git" width="50px" src="icons/git.svg" />][MyWebsite]
-[<img style="margin-left: 8px;" align="left" alt="GitHub" title="GitHub" width="50px" src="icons/github.svg" />][MyWebsite]
-[<img style="margin-left: 8px;" align="left" alt="GitLab" title="GitLab" width="50px" src="icons/gitlab.svg" />][MyWebsite]
-
-<br />
-<br />
-<br />
+<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git" alt="Git" /> 
+<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub" alt="GitHub" /> 
+<img src="https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=GitLab" alt="GitLab" /> 
 
 ---
 
-![bardiademon's github stats](https://github-readme-stats.vercel.app/api?username=bardiademon&show_icons=true)
-
----
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bardiademon&layout=compact)
+<h2> GitHub Stats</h2>
+<div>
+    <a href="#"><img alt="bardiademon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardiademon&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="bardiademon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bardiademon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+</div>
 
 ---
 
