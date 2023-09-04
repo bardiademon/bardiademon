@@ -14,7 +14,7 @@
 <div>   
     <a href="mailto:bardiademon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail" alt="Bardiademon-Gmail"></a>
     <a href="https://t.me/bardiademon" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram" alt="Bardiademon-Telegram"></a>
-    <a href="https://wa.me/989170221393" target="_blank"><img src="https://img.shields.io/badge/whatsapp-0D1117?style=for-the-badge&logo=whatsapp" alt="Bardiademon-Whatsapp"></a>
+    <a href="https://wa.me/+989114907854" target="_blank"><img src="https://img.shields.io/badge/whatsapp-0D1117?style=for-the-badge&logo=whatsapp" alt="Bardiademon-Whatsapp"></a>
 </div>
 
 ### ⚡ Programming languages that I work with
@@ -36,7 +36,7 @@
 
 ### ⚡ Java Toolkit
 
-![Vert.x](https://img.shields.io/badge/-vert.x-0D1117?style=for-the-badge&logo=vertx)
+![Vert.x](https://img.shields.io/badge/-vert.x-0D1117?style=for-the-badge&logo=vert.x)
 
 ### ⚡ Java Frameworks [Back-end]
 
@@ -87,4 +87,4 @@
 
 [MyEmail]: mailto:bardiademon@gmail.com
 
-[MyWhatsapp]: https://wa.me/989170221393
+[MyWhatsapp]: https://wa.me/989114907854
