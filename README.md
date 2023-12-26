@@ -14,7 +14,7 @@
 ## Download Resume
 You can download my detailed resume 
 - [English Version](https://bardiademon.com/public/cv_en.pdf)
-- [Persian Version](https://bardiademon.com/public/cv.pdf).
+- [Persian Version](https://bardiademon.com/public/cv.pdf)
 
 
 <h2>📃 Contact</h2>
