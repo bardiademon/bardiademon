@@ -9,6 +9,14 @@
 - ⚡ In my free time, I watch YouTube tutorials or play games or watch movies
 
 [<img style="border-radius: 10px" align="center" alt="Java" title="Java" src="images/bardiademon.gif" />][MyWebsite]
+
+
+## Download Resume
+You can download my detailed resume 
+- [English Version](https://bardiademon.com/public/cv_en.pdf)
+- [Persian Version](https://bardiademon.com/public/cv.pdf).
+
+
 <h2>📃 Contact</h2>
 
 <div>   
