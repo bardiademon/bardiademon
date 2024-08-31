@@ -22,7 +22,7 @@ You can download my detailed resume
 <div>   
     <a href="mailto:bardiademon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail" alt="Bardiademon-Gmail"></a>
     <a href="https://t.me/bardiademon" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram" alt="Bardiademon-Telegram"></a>
-    <a href="https://wa.me/+989114907854" target="_blank"><img src="https://img.shields.io/badge/whatsapp-0D1117?style=for-the-badge&logo=whatsapp" alt="Bardiademon-Whatsapp"></a>
+    <a href="https://wa.me/+989177257149" target="_blank"><img src="https://img.shields.io/badge/whatsapp-0D1117?style=for-the-badge&logo=whatsapp" alt="Bardiademon-Whatsapp"></a>
 </div>
 
 ### ⚡ Programming languages that I work with
