@@ -8,7 +8,7 @@
   I am currently learning everything related to Java</br>
 - ⚡ In my free time, I watch YouTube tutorials or play games or watch movies
 
-[<img style="border-radius: 10px" align="center" alt="Java" title="Java" src="images/bardiademon.gif" />][MyWebsite]
+[<img style="border-radius: 10px" align="center" alt="Java" title="Java" src="bardiademon.gif" />][MyWebsite]
 
 
 ## Download Resume
