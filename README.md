@@ -2,9 +2,9 @@
 
 # I'm Bardia
 
-- [<img style="margin-left: 8px;margin-right: 8px;" align="left" alt="Java" title="Java" width="20px" src="https://www.bardiademon.com/public/icons/java.svg" />][MyWebsite]
+- [<img style="margin-left: 8px;margin-right: 8px;" align="left" alt="Java" title="Java" width="20px" src="icons/java.svg" />][MyWebsite]
   I am a Java programmer
-- [<img style="margin-left: 8px;margin-right: 8px;" align="left" alt="Java" title="Java" width="20px" src="https://www.bardiademon.com/public/icons/java.svg" />][MyWebsite]
+- [<img style="margin-left: 8px;margin-right: 8px;" align="left" alt="Java" title="Java" width="20px" src="icons/java.svg" />][MyWebsite]
   I am currently learning everything related to Java</br>
 - ⚡ In my free time, I watch YouTube tutorials or play games or watch movies
 
