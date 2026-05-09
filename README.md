@@ -22,17 +22,7 @@
 ### ⚡ Programming languages that I work with
 
 - [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
-  Java Core
-- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
-  Java SE
-- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
-  Java EE
-- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
-  Jakarta EE
-- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/java.svg" />][MyWebsite]
-  Java FX
-- [<img style="margin-left: -5px;;margin-right: 2px" align="left" alt="Java" title="Java" width="22px" src="icons/android.svg" />][MyWebsite]
-  Android
+  Java
 
 # ⚡ Skills
 
