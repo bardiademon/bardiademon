@@ -8,7 +8,7 @@
   I am currently learning everything related to Java</br>
 - ⚡ In my free time, I watch YouTube tutorials or play games or watch movies
 
-[<img style="border-radius: 10px" align="center" alt="Java" title="Java" src="bardiademon.gif" />][MyWebsite]
+[<img style="border-radius: 10px" align="center" alt="Java" title="Java" src="bardiademon.png" />][MyWebsite]
 
 
 <h2>📃 Contact</h2>
@@ -33,8 +33,6 @@
 ### ⚡ Java Frameworks [Back-end]
 
 ![Spring-Boot](https://img.shields.io/badge/-Spring%20boot-0D1117?style=for-the-badge&logo=spring-boot)
-![Quarkus](https://img.shields.io/badge/-Quarkus-0D1117?style=for-the-badge&logo=Quarkus)
-![Micronaut](https://img.shields.io/badge/-micronaut-0D1117?style=for-the-badge&logo=Micronaut)
 
 ### ⚡ SQL
 
@@ -43,10 +41,9 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-0D1117?style=for-the-badge&logo=Sqlite)
 
-### ⚡ JavaScript Frameworks [Front-end]
+### ⚡ Java Frameworks [Front-end]
 
-![vue](https://img.shields.io/badge/-vue-0D1117?style=for-the-badge&logo=vue)
-![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=for-the-badge&logo=JQuery)
+![Vaadin](https://img.shields.io/badge/-vaadin-0D1117?style=for-the-badge&logo=vaadin)
 
 ### ⚡ Api
 
